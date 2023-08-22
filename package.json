@@ -1,0 +1,14 @@
+{
+  "name": "libraryies",
+  "version": "1.0.0",
+  "description": "Hello world",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Asqar",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "swiper": "^10.2.0"
+  }
+}
